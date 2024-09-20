@@ -94,6 +94,7 @@ Python has a collection of objects, that can be used to organized, stored and ma
 Mutable data can be modified while non mutable will result in the creation of a new object
 
 ### Common Pitfalls
+* Examples
     ```python
         def func(items=[]) -> None:
             items.append("foo")
@@ -141,4 +142,4 @@ Classes provides a means of bundling data and functionality together, Python cla
   ```
   python doesn't support private variables but it has a convention of using __property to indicate a property or method is private
 
-  
+## Standard Library
