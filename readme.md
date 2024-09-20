@@ -94,7 +94,7 @@ Python has a collection of objects, that can be used to organized, stored and ma
 Mutable data can be modified while non mutable will result in the creation of a new object
 
 ### Common Pitfalls
-* Examples
+* Example
     ```python
         def func(items=[]) -> None:
             items.append("foo")
